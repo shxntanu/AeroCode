@@ -1,4 +1,4 @@
-![aerocode](https://raw.githubusercontent.com/shxntanu/aerocode/main/images/AeroCode%20GitHub%20Repo%20Cover%20Image.jpg)
+![aerocode](https://raw.githubusercontent.com/shxntanu/aerocode/app/images/AeroCode%20GitHub%20Repo%20Cover%20Image.jpg)
 
 # aerocode
 
