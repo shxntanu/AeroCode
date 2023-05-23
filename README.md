@@ -19,12 +19,20 @@ This project was made using Flutter and Firebase technologies and hosted on [Fir
 - Various themes to customise your coding experience.
 - Code highlighting and analyzing (Currently only for Dart)
 
+## Clone Repository
+
+Install Git on your device. Then in the terminal run 
+```
+git clone https://github.com/shxntanu/aerocode.git
+```
+
+
 ## Learnings
 
 1. State Management using [GetX](https://pub.dev/packages/get)
    - Controllers
    - GetX Navigation
-   - Models
+   - Data Models
 3. [Firebase](https://firebase.google.com) Backend
    - Firebase Cloud Firestore and Databasing
 
